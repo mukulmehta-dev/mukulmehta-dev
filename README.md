@@ -26,9 +26,9 @@
 
 🕵️ **[cyber-fraud-correlator](https://github.com/mukulmehta-dev/cyber-fraud-correlator)** — Unified cyber fraud analysis and digital artifact correlator (entity linking, mule account graphs, risk scoring).
 
-🎮 **[Financial-literacy-RPG-Quest](https://github.com/mukulmehta-dev/Financial-literacy-RPG-Quest)** — Gamified full-stack app teaching financial literacy through an RPG-style experience.
+🔥 Thermointel — End-to-end industrial thermal intelligence and monitoring platform built for Smart India Hackathon (SIH 26162).
 
-🏦 **[cyberwar-banking-defense](https://github.com/mukulmehta-dev/cyberwar-banking-defense)** — Interactive multi-role cybersecurity simulation for financial institutions.
+🏠 House-Price-Prediction — Production-grade ML and web app predicting housing market valuations from physical and geographic attributes.
 
 📈 **[Anomaly-Detection-System](https://github.com/mukulmehta-dev/Anomaly-Detection-System)** — Production-ready anomaly detection using statistical, ML, and ensemble techniques.
 
