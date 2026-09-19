@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mukul</h1>
+<h1 align="center">Hi 👋, I'm Mukul Mehta</h1>
 <h3 align="center">Software Engineer • Cybersecurity • AI/ML</h3>
 
 <p align="center">Building full-stack apps, AI-powered tools, and cybersecurity projects.</p>
@@ -26,9 +26,9 @@
 
 🕵️ **[cyber-fraud-correlator](https://github.com/mukulmehta-dev/cyber-fraud-correlator)** — Unified cyber fraud analysis and digital artifact correlator (entity linking, mule account graphs, risk scoring).
 
-🔥 Thermointel — End-to-end industrial thermal intelligence and monitoring platform built for Smart India Hackathon (SIH 26162).
+🔥 **[Thermointel](https://github.com/mukulmehta-dev/Thermointel)** — End-to-end industrial thermal intelligence and monitoring platform built for Smart India Hackathon (SIH 26162).
 
-🏠 House-Price-Prediction — Production-grade ML and web app predicting housing market valuations from physical and geographic attributes.
+🏠 **[House-Price-Prediction](https://github.com/mukulmehta-dev/House-Price-Prediction)** — Production-grade ML and web app predicting housing market valuations from physical and geographic attributes.
 
 📈 **[Anomaly-Detection-System](https://github.com/mukulmehta-dev/Anomaly-Detection-System)** — Production-ready anomaly detection using statistical, ML, and ensemble techniques.
 
