@@ -39,9 +39,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukulmehta-dev&theme=dark" height="165"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukulmehta-dev&layout=compact&theme=dark" height="165"/>
-</p>
 
 ### 🌐 Connect With Me
 
