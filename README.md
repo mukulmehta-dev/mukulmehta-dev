@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mukul Mehta</h1>
-<h3 align="center">Software Engineer • Cybersecurity • AI/ML</h3>
+<h3 align="center">Software Engineer • AI/ML</h3>
 
 <p align="center">Building full-stack apps, AI-powered tools, and cybersecurity projects.</p>
 
